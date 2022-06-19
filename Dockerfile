@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:11
 MAINTAINER Domi d<errierdo@gmail.com>
 
 ADD script.sh	/root/
