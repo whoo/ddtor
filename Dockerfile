@@ -1,4 +1,4 @@
-FROM debian:bullseye-20220527
+FROM debian:bullseye-20231218
 MAINTAINER Domi d<errierdo@gmail.com>
 
 ADD script.sh	/root/
